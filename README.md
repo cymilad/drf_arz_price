@@ -1,4 +1,4 @@
-<h2 align="center">Real-time currency prices with Django REST framework 🔥</h2>
+<h2 align="center">Real-time currency prices with Django REST framework 💸</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
@@ -11,3 +11,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
 </div>
+
+###
+
+
+<p align="left">Real time currency prices DRF</p>
+
+###
+
+<h3 align="left">Demo Screeshots 🖼️</h3>
+
+###
+
+
+
+<div align="center">
+  <img src="" />
+</div>
+
+###
