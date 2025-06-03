@@ -46,7 +46,7 @@
 
 Download Project ⏬
 ```bash
-git clone https://github.com/cymilad/django_resume.git
+git clone https://github.com/cymilad/drf_arz_price.git
 ```
 
 Open Windows Terminal And Install Library requirement for Run Project 🛠️
