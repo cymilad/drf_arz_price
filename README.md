@@ -15,7 +15,7 @@
 ###
 
 
-<p align="left">Real time currency prices DRF</p>
+<p align="left">Real time currency prices with DRF</p>
 
 ###
 
